@@ -1,0 +1,38 @@
+body {
+  margin:0;
+  padding:0;
+}
+
+p {
+  font-family:Arial;
+  
+}
+
+background {
+  color: blue;
+}
+
+nav {
+  background-color:DarkBlue;
+  height: 50px;
+}
+
+nav {
+  display: flex;
+  justify-content:space-between;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  margin: auto;
+}
+
+nav a:hover {
+  color:LightGray;
+}
+
+
+.galeria {
+  width:200px;
+}
